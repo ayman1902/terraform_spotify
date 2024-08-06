@@ -1,4 +1,4 @@
-# Spotify Playlist Automation with Terraform
+# MAC (MUSIC AS CODE) Spotify Playlist Automation with Terraform
 
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com/)
 
