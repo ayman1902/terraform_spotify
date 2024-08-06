@@ -34,11 +34,11 @@ Clone this repository to your local machine:
 ```sh
 git clone https://github.com/ayman1902/terraform_spotify.git
 cd terraform_spotify
-## How to use
+ ```
+
+### 4. How to use
 
 First, you need an instance of a spotify oauth2 server running. This acts as a middleware between terraform and spotify to allow easy access to access tokens.
-
-### 4. Public proxy
 
 For a simple way to manage your spotify oauth2 tokens is to use https://oauth2.conrad.cafe. ([source code](https://github.com/conradludgate/oauth2-proxy))
 
